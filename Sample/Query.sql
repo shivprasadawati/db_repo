@@ -1,2 +1,2 @@
 select * from ${table}
-,--where
+,--where col
